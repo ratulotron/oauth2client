@@ -7,7 +7,7 @@ from django.views.generic import TemplateView
 
 def index(request):
     try:
-        response = requests.get("http://localhost:8000")
+        response = requests.get("https://ratul-server.herokuapp.com")
         status = response.status_code
         data = response.json()
     except Exception as e:

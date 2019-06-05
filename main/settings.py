@@ -137,6 +137,6 @@ AUTHENTICATION_BACKENDS = (
     'allauth.account.auth_backends.AuthenticationBackend',
 )
 
-OAUTH_SERVER_BASEURL = 'http://localhost:8000'
+OAUTH_SERVER_BASEURL = 'https://ratul-server.herokuapp.com'
 
 django_heroku.settings(locals())
