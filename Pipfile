@@ -10,6 +10,7 @@ requests = "*"
 django-allauth = "*"
 djangorestframework = "*"
 django = "==2"
+gunicorn = "*"
 
 [requires]
 python_version = "3.6"
