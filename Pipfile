@@ -11,6 +11,7 @@ django-allauth = "*"
 djangorestframework = "*"
 django = "==2"
 gunicorn = "*"
+django-heroku = "*"
 
 [requires]
 python_version = "3.6"
