@@ -12,6 +12,7 @@ djangorestframework = "*"
 django = "==2"
 gunicorn = "*"
 django-heroku = "*"
+django-request-logging = "*"
 
 [requires]
 python_version = "3.6"
