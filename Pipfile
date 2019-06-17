@@ -13,6 +13,7 @@ django = "==2"
 gunicorn = "*"
 django-heroku = "*"
 django-request-logging = "*"
+django-cors-headers = "*"
 
 [requires]
 python_version = "3.6"

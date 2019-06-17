@@ -1,0 +1,7 @@
+requests
+django-allauth
+djangorestframework
+django
+gunicorn 
+django-heroku 
+django-cors-headers
