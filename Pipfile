@@ -9,7 +9,7 @@ verify_ssl = true
 requests = "*"
 django-allauth = "*"
 djangorestframework = "*"
-django = "==2.0.12"
+django = "==2.2.13"
 gunicorn = "*"
 django-heroku = "*"
 django-request-logging = "*"
